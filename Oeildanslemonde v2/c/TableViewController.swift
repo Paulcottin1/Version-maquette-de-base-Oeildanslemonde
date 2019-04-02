@@ -13,6 +13,7 @@ class TableViewController: UITableViewController {
     var Lieus : [Lieu] = []
     var cellID = "Lieu"
     var test = "test"
+    var test2 = "test2"
     
     override func viewDidLoad() {
         super.viewDidLoad()
