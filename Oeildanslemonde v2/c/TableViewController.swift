@@ -12,7 +12,7 @@ class TableViewController: UITableViewController {
 
     var Lieus : [Lieu] = []
     var cellID = "Lieu"
-    
+    var test = "test"
     
     override func viewDidLoad() {
         super.viewDidLoad()
